@@ -1,0 +1,1618 @@
+Tlock
+v7
+r0
+t353658310.090459
+cCheck dependencies
+cProcessInfoPlistFile /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/Info.plist lock-Info.plist
+cCompileXIB /Users/mac/Desktop/ashu123/lock2/MainWindow.xib
+cCompileXIB /Users/mac/Desktop/ashu123/lock2/RootViewController.xib
+cCpResource build/Debug-iphonesimulator/lock.app/activity-overlay.png "/users/mac/Desktop/HSC Chemistry/Foundation/activity-overlay/activity-overlay.png"
+cCompileXIB "/users/mac/Desktop/HSC Chemistry/Foundation/activity-overlay/Activity.xib"
+cCompileXIB /Users/mac/Desktop/ashu123/lock2/Classes/detail.xib
+cCompileXIB /Users/mac/Desktop/ashu123/lock2/Classes/map.xib
+cProcessPCH /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch.gch lock_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/lock.mom /Users/mac/Desktop/ashu123/lock2/lock.xcdatamodel
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/main.o /Users/mac/Desktop/ashu123/lock2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/lockAppDelegate.o /Users/mac/Desktop/ashu123/lock2/Classes/lockAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/RootViewController.o /Users/mac/Desktop/ashu123/lock2/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/ISActivityOverlayController.o "/users/mac/Desktop/HSC Chemistry/Foundation/activity-overlay/ISActivityOverlayController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/CAVNSArrayTypeCategory-696EDB1E244FAD8D.o "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/CAVNSArrayTypeCategory.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/JSONUtils.o "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/JSONUtils.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSArray+MBNSIndexPath.o "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSArray+MBNSIndexPath.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSData+Hex.o "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSData+Hex.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSDate-Calendar.o "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSDate-Calendar.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSDateDayCategory.o "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSDateDayCategory.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSError+Log4Cocoa.o "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSError+Log4Cocoa.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSHTTPURLResponse+StatusCodes.o "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSHTTPURLResponse+StatusCodes.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSString+md5.o "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSString+md5.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSObject+SBJSON.o "/users/mac/Desktop/HSC Chemistry/Foundation/json/NSObject+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSString+SBJSON.o "/users/mac/Desktop/HSC Chemistry/Foundation/json/NSString+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SBJsonBase.o "/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonBase.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SBJsonParser.o "/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SBJsonWriter.o "/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonWriter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SBJsonStreamWriter.o "/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonStreamWriter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/ISO8601DateFormatter.o "/users/mac/Desktop/HSC Chemistry/Foundation/json/ISO8601DateFormatter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/IconRecord.o "/users/mac/Desktop/HSC Chemistry/Foundation/SimpleImageCache/IconRecord.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/ImageCache.o "/users/mac/Desktop/HSC Chemistry/Foundation/SimpleImageCache/ImageCache.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SAService.o "/users/mac/Desktop/HSC Chemistry/Foundation/src/SAService.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SAServiceAsyncInvocation.o "/users/mac/Desktop/HSC Chemistry/Foundation/src/SAServiceAsyncInvocation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/detail.o /Users/mac/Desktop/ashu123/lock2/Classes/detail.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/map.o /Users/mac/Desktop/ashu123/lock2/Classes/map.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/GetQuestionDetailsInvocation.o "/users/mac/Desktop/HSC Chemistry/GetQuestionDetailsInvocation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/ExamBoardAsyncInvocation.o "/users/mac/Desktop/HSC Chemistry/ExamBoardAsyncInvocation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/ExamBoardService.o "/users/mac/Desktop/HSC Chemistry/ExamBoardService.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Constants.o "/Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/Constants.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/CAVNSArrayTypeCategory-5D820052046DDD5F.o "/Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/CAVNSArrayTypeCategory.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Utils.o "/Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/Utils.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/store.o /Users/mac/Desktop/ashu123/lock2/Classes/store.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Category.o /Users/mac/Desktop/ashu123/lock2/Classes/Category.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Category+Parse.o /Users/mac/Desktop/ashu123/lock2/Classes/Category+Parse.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/lock normal i386
+cGenerateDSYMFile /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app.dSYM /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/lock
+cTouch /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004D54D02800000000001D6EC0
+t1297403944
+s1928896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004D54D01A000000000000046B
+t1297403930
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004D54DEBC00000000000778F0
+t1297407676
+s489712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004D54DEB600000000000001D0
+t1297407670
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSArray.h
+c000000004D54CFB80000000000001B27
+t1297403832
+s6951
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDictionary.h
+c000000004D54CFBA0000000000000E3B
+t1297403834
+s3643
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURL.h
+c000000004D54CFBE0000000000004CFE
+t1297403838
+s19710
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLConnection.h
+c000000004D54CFBF0000000000005C0B
+t1297403839
+s23563
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004D5C9BDB00000000000002FE
+t1297914843
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004D5C9BEB000000000018CAB0
+t1297914859
+s1624752
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/CommonCrypto/CommonDigest.h
+c000000004A11E8210000000000002407
+t1242687521
+s9223
+
+N/Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/CAVNSArrayTypeCategory.m
+c000000004E154B14000000000000016A
+t1310018324
+s362
+i"CAVNSArrayTypeCategory.h"
+
+N/Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/Category+Parse.h
+c000000004F630B0400000000000000D8
+t1331890948
+s216
+i"Category.h"
+
+N/Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/Constants.h
+c000000004E4B8CDF00000000000000AA
+t1313574111
+s170
+i<UIKit/UIKit.h>
+
+N/Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/Constants.m
+c000000004E4B8CDF000000000000005D
+t1313574111
+s93
+i"Constants.h"
+
+N/Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/DataStore.h
+c000000004E845AFC00000000000006B8
+t1317296892
+s1720
+i<CoreData/CoreData.h>
+i"user.h"
+i"Category.h"
+i"Topic.h"
+i"Question.h"
+i"Attempt.h"
+i"TopicWiseScore.h"
+
+N/Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/ExamBoardService.h
+c000000004E7C3BC900000000000001E1
+t1316764617
+s481
+i<Foundation/Foundation.h>
+i"SAService.h"
+i"SubmitUserInvocation.h"
+i"GetQuestionDetailsInvocation.h"
+
+N/Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/GetQuestionDetailsInvocation.h
+c000000004E7C446E0000000000000294
+t1316766830
+s660
+i"SAServiceAsyncInvocation.h"
+i"ExamBoardAsyncInvocation.h"
+i"GetQuestionDetailsInvocation.h"
+
+N/Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/Utils.h
+c000000004E2D64C200000000000006D7
+t1311597762
+s1751
+i<UIKit/UIKit.h>
+
+N/Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/Utils.m
+c000000004E2D63870000000000001177
+t1311597447
+s4471
+i"Utils.h"
+i"Constants.h"
+
+N/Users/mac/Desktop/ashu123/lock2/Classes/Category+Parse.h
+c000000004F63106200000000000000AE
+t1331892322
+s174
+i"Category.h"
+
+N/Users/mac/Desktop/ashu123/lock2/Classes/Category+Parse.m
+c000000004F631E83000000000000064F
+t1331895939
+s1615
+i"Category+Parse.h"
+i"Category.h"
+i"JSON.h"
+
+N/Users/mac/Desktop/ashu123/lock2/Classes/Category.h
+c000000004F630F110000000000000231
+t1331891985
+s561
+i<CoreData/CoreData.h>
+i<Foundation/Foundation.h>
+i<Foundation/NSDictionary.h>
+i<Foundation/NSArray.h>
+
+N/Users/mac/Desktop/ashu123/lock2/Classes/Category.m
+c000000004F631E570000000000000124
+t1331895895
+s292
+i"Category.h"
+
+N/Users/mac/Desktop/ashu123/lock2/Classes/Entity.h
+c000000004F62F1D400000000000001D0
+t1331884500
+s464
+i<CoreData/CoreData.h>
+
+N/Users/mac/Desktop/ashu123/lock2/Classes/NSObject.h
+c000000004F630CF000000000000001D4
+t1331891440
+s468
+i<CoreData/CoreData.h>
+
+N/Users/mac/Desktop/ashu123/lock2/Classes/NSObject.m
+c000000004F630CF00000000000000116
+t1331891440
+s278
+i"NSObject.h"
+
+N/Users/mac/Desktop/ashu123/lock2/Classes/RootViewController.h
+c000000004F4F6A260000000000000328
+t1330604582
+s808
+i<UIKit/UIKit.h>
+i"GetQuestionDetailsInvocation.h"
+i"Category.h"
+
+N/Users/mac/Desktop/ashu123/lock2/Classes/RootViewController.m
+c000000004F63219F00000000000017A0
+t1331896735
+s6048
+i"RootViewController.h"
+i"GetQuestionDetailsInvocation.h"
+i"ExamBoardService.h"
+i"ExamBoardAsyncInvocation.h"
+i"detail.h"
+i"Category.h"
+i"Category+Parse.h"
+i"store.h"
+
+N/Users/mac/Desktop/ashu123/lock2/Classes/as.m
+c000000004F630E9C0000000000000115
+t1331891868
+s277
+i"Category.h"
+
+N/Users/mac/Desktop/ashu123/lock2/Classes/detail.h
+c000000004F4E1C1100000000000001EE
+t1330519057
+s494
+i<UIKit/UIKit.h>
+i"Category.h"
+i"Category+Parse.h"
+
+N/Users/mac/Desktop/ashu123/lock2/Classes/detail.m
+c000000004F4E2B0B0000000000000762
+t1330522891
+s1890
+i"detail.h"
+i"map.h"
+i"Category.h"
+i"Category+Parse.h"
+
+N/Users/mac/Desktop/ashu123/lock2/Classes/detail.xib
+c000000004F4E1DE1000000000000675D
+t1330519521
+s26461
+
+N/Users/mac/Desktop/ashu123/lock2/Classes/lockAppDelegate.h
+c000000004F6313BD00000000000001C5
+t1331893181
+s453
+i<UIKit/UIKit.h>
+
+N/Users/mac/Desktop/ashu123/lock2/Classes/lockAppDelegate.m
+c000000004F6313C20000000000000AA9
+t1331893186
+s2729
+i"lockAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/mac/Desktop/ashu123/lock2/Classes/map.h
+c000000004F4F6C030000000000000485
+t1330605059
+s1157
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i"Category.h"
+i"Category+Parse.h"
+
+N/Users/mac/Desktop/ashu123/lock2/Classes/map.m
+c000000004F4F6C210000000000000AC1
+t1330605089
+s2753
+i"map.h"
+i<MapKit/MapKit.h>
+
+N/Users/mac/Desktop/ashu123/lock2/Classes/map.xib
+c000000004F4E27B6000000000000594C
+t1330522038
+s22860
+
+N/Users/mac/Desktop/ashu123/lock2/Classes/store.h
+c000000004F6323B20000000000000361
+t1331897266
+s865
+i<CoreData/CoreData.h>
+i"Category.h"
+i"Entity.h"
+
+N/Users/mac/Desktop/ashu123/lock2/Classes/store.m
+c000000004F642F1E0000000000001733
+t1331965726
+s5939
+i"store.h"
+i"Category+Parse.h"
+i"Category.h"
+i"Entity.h"
+i<CoreLocation/CoreLocation.h>
+
+N/Users/mac/Desktop/ashu123/lock2/MainWindow.xib
+c000000004F4CA1090000000000006FB8
+t1330422025
+s28600
+
+N/Users/mac/Desktop/ashu123/lock2/RootViewController.xib
+c000000004F4C94A70000000000005059
+t1330418855
+s20569
+
+N/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app
+t1331965510
+s408
+
+N/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app.dSYM
+t1331965510
+s102
+
+N/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/Activity.nib
+t1331965506
+s3362
+
+N/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/Info.plist
+t1331965503
+s579
+
+N/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/MainWindow.nib
+t1331965505
+s2477
+
+N/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/PkgInfo
+t1331965503
+s8
+
+N/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/RootViewController.nib
+t1331965505
+s1562
+
+N/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/activity-overlay.png
+t1331965505
+s1063
+
+N/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/detail.nib
+t1331965506
+s4030
+
+N/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/lock
+t1331965510
+s188988
+
+N/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/lock.mom
+t1331965508
+s1544
+
+N/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/map.nib
+t1331965506
+s3882
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/CAVNSArrayTypeCategory-5D820052046DDD5F.o
+t1331965509
+s6856
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/CAVNSArrayTypeCategory-696EDB1E244FAD8D.o
+t1331965508
+s6840
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Category+Parse-68A5F5AEEBEDF55.o
+t2
+s0
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Category+Parse-E14BFD23F959746A.o
+t2
+s0
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Category+Parse.o
+t1331965509
+s9996
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Category.o
+t1331965509
+s11036
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Constants.o
+t1331965509
+s5100
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/ExamBoardAsyncInvocation.o
+t1331965509
+s9588
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/ExamBoardService.o
+t1331965509
+s10512
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/GetQuestionDetailsInvocation.o
+t1331965509
+s15060
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/ISActivityOverlayController.o
+t1331965508
+s54876
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/ISO8601DateFormatter.o
+t1331965509
+s47412
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/IconRecord.o
+t1331965509
+s24072
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/ImageCache.o
+t1331965509
+s17352
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/JSONUtils.o
+t1331965508
+s12232
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSArray+MBNSIndexPath.o
+t1331965508
+s10648
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSData+Hex.o
+t1331965508
+s7196
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSDate-Calendar.o
+t1331965508
+s17480
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSDateDayCategory.o
+t1331965508
+s15040
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSError+Log4Cocoa.o
+t1331965508
+s6204
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSHTTPURLResponse+StatusCodes.o
+t1331965508
+s9016
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSObject+SBJSON.o
+t1331965508
+s7400
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSObject.o
+t2
+s0
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSString+SBJSON.o
+t1331965508
+s7292
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSString+md5.o
+t1331965508
+s7236
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/RootViewController.o
+t1331965508
+s58608
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SAService.o
+t1331965509
+s16672
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SAServiceAsyncInvocation.o
+t1331965509
+s51600
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SBJsonBase.o
+t1331965508
+s13220
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SBJsonParser.o
+t1331965508
+s36904
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SBJsonStreamWriter.o
+t1331965509
+s34860
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SBJsonWriter.o
+t1331965508
+s14188
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Utils.o
+t1331965509
+s53512
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/as.o
+t2
+s0
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/detail.o
+t1331965509
+s44900
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/lock.LinkFileList
+c000000004F642E3F000000000000109F
+t1331965503
+s4255
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/lockAppDelegate.o
+t1331965508
+s52852
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/main.o
+t1331965507
+s6300
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/map.o
+t1331965509
+s54340
+
+N/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/store.o
+t1331965509
+s23904
+
+N/Users/mac/Desktop/ashu123/lock2/lock.xcdatamodel
+c000000004F6316950000000000000088
+t1331893909
+s136
+
+N/Users/mac/Desktop/ashu123/lock2/lock_Prefix.pch
+c000000004F4C8D00000000000000013A
+t1330416896
+s314
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mac/Desktop/ashu123/lock2/main.m
+c000000004F4C8D00000000000000015D
+t1330416896
+s349
+i<UIKit/UIKit.h>
+
+N/Users/mac/Downloads/HSC Chemistry/CAVNSArrayTypeCategory.h
+c000000004E7037E200000000000000DE
+t1315977186
+s222
+
+N/Users/mac/Downloads/HSC Chemistry/Constants.h
+c000000004E4B8CDF00000000000000AA
+t1313574111
+s170
+i<UIKit/UIKit.h>
+
+N/Users/mac/Downloads/HSC Chemistry/ExamBoardAsyncInvocation.h
+c000000004E6F497D00000000000000CF
+t1315916157
+s207
+i<Foundation/Foundation.h>
+i"SAServiceAsyncInvocation.h"
+
+N/Users/mac/Downloads/HSC Chemistry/GetQuestionDetailsInvocation.h
+c000000004E7C446E0000000000000294
+t1316766830
+s660
+i"SAServiceAsyncInvocation.h"
+i"ExamBoardAsyncInvocation.h"
+i"GetQuestionDetailsInvocation.h"
+
+N/Users/mac/Downloads/HSC Chemistry/Utils.h
+c000000004E2D64C200000000000006D7
+t1311597762
+s1751
+i<UIKit/UIKit.h>
+
+N/Users/mac/Downloads/HSC Chemistry/user.h
+c000000004E79B31C0000000000000264
+t1316598556
+s612
+i<Foundation/Foundation.h>
+i<Foundation/NSDictionary.h>
+i<Foundation/NSArray.h>
+
+N/users/mac/Desktop/HSC Chemistry/Category+Parse.h
+c000000004E7041AC00000000000000D8
+t1315979692
+s216
+i"Category.h"
+
+N/users/mac/Desktop/HSC Chemistry/ExamBoardAsyncInvocation.h
+c000000004E6F497D00000000000000CF
+t1315916157
+s207
+i<Foundation/Foundation.h>
+i"SAServiceAsyncInvocation.h"
+
+N/users/mac/Desktop/HSC Chemistry/ExamBoardAsyncInvocation.m
+c000000004E6F49770000000000000183
+t1315916151
+s387
+i"ExamBoardAsyncInvocation.h"
+
+N/users/mac/Desktop/HSC Chemistry/ExamBoardService.h
+c000000004F4F6A170000000000000148
+t1330604567
+s328
+i<Foundation/Foundation.h>
+i"SAService.h"
+i"GetQuestionDetailsInvocation.h"
+
+N/users/mac/Desktop/HSC Chemistry/ExamBoardService.m
+c000000004F4F6A58000000000000024C
+t1330604632
+s588
+i"ExamBoardService.h"
+i"GetQuestionDetailsInvocation.h"
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/SimpleImageCache/IconRecord.h
+c000000004E154B130000000000000346
+t1310018323
+s838
+i<Foundation/Foundation.h>
+i<Foundation/NSURL.h>
+i<Foundation/NSURLConnection.h>
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/SimpleImageCache/IconRecord.m
+c000000004E40E14C0000000000000B58
+t1312874828
+s2904
+i"IconRecord.h"
+i"ImageCache.h"
+i"Utils.h"
+i"Constants.h"
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/SimpleImageCache/ImageCache.h
+c000000004E154B1300000000000003AF
+t1310018323
+s943
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/SimpleImageCache/ImageCache.m
+c000000004E154B13000000000000083E
+t1310018323
+s2110
+i"ImageCache.h"
+i"IconRecord.h"
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/activity-overlay/Activity.xib
+c000000004E154B150000000000005E92
+t1310018325
+s24210
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/activity-overlay/ISActivityOverlayController.h
+c000000004E154B15000000000000048B
+t1310018325
+s1163
+i<Foundation/Foundation.h>
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/activity-overlay/ISActivityOverlayController.m
+c000000004E3CE8AD0000000000000BC1
+t1312614573
+s3009
+i"ISActivityOverlayController.h"
+i"CAVNSArrayTypeCategory.h"
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/activity-overlay/activity-overlay.png
+c000000004E154B150000000000000427
+t1310018325
+s1063
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/CAVNSArrayTypeCategory.h
+c000000004E26757D00000000000000D5
+t1311143293
+s213
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/CAVNSArrayTypeCategory.m
+c000000004E2920240000000000000161
+t1311318052
+s353
+i"CAVNSArrayTypeCategory.h"
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/JSONUtils.h
+c000000004E84569800000000000001DD
+t1317295768
+s477
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/JSONUtils.m
+c000000004E84569800000000000005B3
+t1317295768
+s1459
+i"JSONUtils.h"
+i"ISO8601DateFormatter.h"
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSArray+MBNSIndexPath.h
+c000000004E154B150000000000000123
+t1310018325
+s291
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSArray+MBNSIndexPath.m
+c000000004E423F7700000000000007D2
+t1312964471
+s2002
+i"NSArray+MBNSIndexPath.h"
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSData+Hex.h
+c000000004E154B1500000000000000E5
+t1310018325
+s229
+i<Foundation/Foundation.h>
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSData+Hex.m
+c000000004E154B15000000000000021B
+t1310018325
+s539
+i"NSData+Hex.h"
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSDate-Calendar.h
+c000000004E154B150000000000000778
+t1310018325
+s1912
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSDate-Calendar.m
+c000000004E154B1500000000000010D1
+t1310018325
+s4305
+i"NSDate-Calendar.h"
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSDateDayCategory.h
+c000000004E154B1500000000000001D1
+t1310018325
+s465
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSDateDayCategory.m
+c000000004E855030000000000000093D
+t1317359664
+s2365
+i"NSDateDayCategory.h"
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSError+Log4Cocoa.h
+c000000004E154B1500000000000000D0
+t1310018325
+s208
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSError+Log4Cocoa.m
+c000000004E2D675300000000000002BE
+t1311598419
+s702
+i"NSError+Log4Cocoa.h"
+i<CoreData/CoreData.h>
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSHTTPURLResponse+StatusCodes.h
+c000000004E154B15000000000000015D
+t1310018325
+s349
+i<Foundation/Foundation.h>
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSHTTPURLResponse+StatusCodes.m
+c000000004E154B150000000000000284
+t1310018325
+s644
+i"NSHTTPURLResponse+StatusCodes.h"
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSString+md5.m
+c000000004E154B15000000000000020B
+t1310018325
+s523
+i<CommonCrypto/CommonDigest.h>
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/json/ISO8601DateFormatter.h
+c000000004E154B130000000000000B90
+t1310018323
+s2960
+i<Foundation/Foundation.h>
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/json/ISO8601DateFormatter.m
+c000000004EB39DB00000000000005C05
+t1320394160
+s23557
+i<Foundation/Foundation.h>
+i"ISO8601DateFormatter.h"
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/json/JSON.h
+c000000004E43AE990000000000000B08
+t1313058457
+s2824
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+i"SBJsonStreamWriter.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+i<JSON/SBJsonParser.h>
+i<JSON/SBJsonWriter.h>
+i<JSON/SBJsonStreamWriter.h>
+i<JSON/NSObject+SBJSON.h>
+i<JSON/NSString+SBJSON.h>
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/json/NSObject+SBJSON.h
+c000000004E154B13000000000000085F
+t1310018323
+s2143
+i<Foundation/Foundation.h>
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/json/NSObject+SBJSON.m
+c000000004E154B13000000000000077D
+t1310018323
+s1917
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/json/NSString+SBJSON.h
+c000000004E154B1300000000000007F0
+t1310018323
+s2032
+i<Foundation/Foundation.h>
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/json/NSString+SBJSON.m
+c000000004E154B13000000000000075D
+t1310018323
+s1885
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonBase.h
+c000000004E154B130000000000000B82
+t1310018323
+s2946
+i<Foundation/Foundation.h>
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonBase.m
+c000000004E154B130000000000000AC1
+t1310018323
+s2753
+i"SBJsonBase.h"
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonParser.h
+c000000004E154B130000000000000C8F
+t1310018323
+s3215
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonParser.m
+c000000004E154B130000000000003B7A
+t1310018323
+s15226
+i"SBJsonParser.h"
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonStreamWriter.h
+c000000004E154B130000000000000768
+t1310018323
+s1896
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonStreamWriter.m
+c000000004E154B1300000000000024DD
+t1310018323
+s9437
+i"SBJsonStreamWriter.h"
+i"SBProxyForJson.h"
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonWriter.h
+c000000004E154B130000000000001052
+t1310018323
+s4178
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonWriter.m
+c000000004E154B130000000000000AC1
+t1310018323
+s2753
+i"SBJsonWriter.h"
+i"SBJsonStreamWriter.h"
+i"SBProxyForJson.h"
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/json/SBProxyForJson.h
+c000000004E154B13000000000000086C
+t1310018323
+s2156
+i<Foundation/Foundation.h>
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/src/SAService.h
+c000000004E154B150000000000000260
+t1310018325
+s608
+i<Foundation/Foundation.h>
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/src/SAService.m
+c000000004F4F29A1000000000000063D
+t1330588065
+s1597
+i"SAService.h"
+i"SAServiceAsyncInvocation.h"
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/src/SAServiceAsyncInvocation.h
+c000000004E154B15000000000000095C
+t1310018325
+s2396
+i<Foundation/Foundation.h>
+i"ISO8601DateFormatter.h"
+i"NSHTTPURLResponse+StatusCodes.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+i"JSON.h"
+
+N/users/mac/Desktop/HSC Chemistry/Foundation/src/SAServiceAsyncInvocation.m
+c000000004E8416050000000000001D7E
+t1317279237
+s7550
+i"SAServiceAsyncInvocation.h"
+
+N/users/mac/Desktop/HSC Chemistry/GetQuestionDetailsInvocation.h
+c000000004F4F6C4800000000000001E7
+t1330605128
+s487
+i"SAServiceAsyncInvocation.h"
+i"ExamBoardAsyncInvocation.h"
+i"GetQuestionDetailsInvocation.h"
+
+N/users/mac/Desktop/HSC Chemistry/GetQuestionDetailsInvocation.m
+c000000004F4DD4FE00000000000006D0
+t1330500862
+s1744
+i"JSON.h"
+i"Category.h"
+i"Category+Parse.h"
+i"GetQuestionDetailsInvocation.h"
+
+N/users/mac/Desktop/HSC Chemistry/Modal/Category+Parse.h
+c000000004F630DEF00000000000000D8
+t1331891695
+s216
+i"Category.h"
+
+N/users/mac/Desktop/HSC Chemistry/Modal/Category+Parse.m
+c000000004F630E320000000000000643
+t1331891762
+s1603
+i"Category+Parse.h"
+i"Category.h"
+i"JSON.h"
+
+N/users/mac/Desktop/HSC Chemistry/Modal/Category.h
+c000000004F630A990000000000000000
+t1331890841
+s0
+
+N/var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch.gch
+t1331965507
+s15814064
+
+Nlock-Info.plist
+c000000004F4C8D00000000000000038D
+t1330416896
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies353658303#353658303#0(0"0(0#1#0"8613781120#0"0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/CAVNSArrayTypeCategory-5D820052046DDD5F.o "/Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/CAVNSArrayTypeCategory.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658309.630518
+e353658309.714272
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/CAVNSArrayTypeCategory-5D820052046DDD5F.o
+x/Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/CAVNSArrayTypeCategory.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/CAVNSArrayTypeCategory.m353658309#353658309#0(0"0(0#0#90"/Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/CAVNSArrayTypeCategory.m8613582560#1876"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/CAVNSArrayTypeCategory.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/CAVNSArrayTypeCategory-5D820052046DDD5F.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/CAVNSArrayTypeCategory-696EDB1E244FAD8D.o "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/CAVNSArrayTypeCategory.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658308.256228
+e353658308.346240
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/CAVNSArrayTypeCategory-696EDB1E244FAD8D.o
+x/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/CAVNSArrayTypeCategory.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /users/mac/Desktop/HSC Chemistry/Foundation/categories/src/CAVNSArrayTypeCategory.m353658308#353658308#0(0"0(0#0#83"/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/CAVNSArrayTypeCategory.m8617276640#1869"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/CAVNSArrayTypeCategory.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/CAVNSArrayTypeCategory-696EDB1E244FAD8D.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Category+Parse-68A5F5AEEBEDF55.o "/users/mac/Desktop/HSC Chemistry/Modal/Category+Parse.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Category+Parse-E14BFD23F959746A.o /Users/mac/Desktop/ashu123/lock2/Classes/Category+Parse.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Category+Parse.o "/users/mac/Desktop/HSC Chemistry/Modal/Category+Parse.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353585001.788535
+e353585001.849726
+r0
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Category+Parse.o
+x/users/mac/Desktop/HSC Chemistry/Modal/Category+Parse.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /users/mac/Desktop/HSC Chemistry/Modal/Category+Parse.m:8:
+o/users/mac/Desktop/HSC Chemistry/Modal/Category+Parse.h:11: error: cannot find interface declaration for 'Category'
+lSLF07#2@63"Compile /users/mac/Desktop/HSC Chemistry/Modal/Category+Parse.m353585001#353585001#0(197"In file included from /users/mac/Desktop/HSC Chemistry/Modal/Category+Parse.m:8:/users/mac/Desktop/HSC Chemistry/Modal/Category+Parse.h:11: error: cannot find interface declaration for 'Category'1(4@48"Cannot find interface declaration for 'Category'353585001#81#116#2(7@77"In file included from /users/mac/Desktop/HSC Chemistry/Modal/Category+Parse.m353585001#18446744073709551615#0#0(6@55"/users/mac/Desktop/HSC Chemistry/Modal/Category+Parse.m353584562#8#0#8#0#0"0(13@107"Cannot find interface declaration for 'Category' in /users/mac/Desktop/HSC Chemistry/Modal/Category+Parse.h353585001#18446744073709551615#0#0(6@55"/users/mac/Desktop/HSC Chemistry/Modal/Category+Parse.h353584495#11#0#11#0#0"0(6@55"/users/mac/Desktop/HSC Chemistry/Modal/Category+Parse.h353584495#11#0#11#0#0"0(0#0#55"/users/mac/Desktop/HSC Chemistry/Modal/Category+Parse.m8599821728#1816"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/users/mac/Desktop/HSC Chemistry/Modal/Category+Parse.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Category+Parse.o1#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Category+Parse.o /Users/mac/Desktop/ashu123/lock2/Classes/Category+Parse.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658309.832770
+e353658309.935857
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Category+Parse.o
+x/Users/mac/Desktop/ashu123/lock2/Classes/Category+Parse.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mac/Desktop/ashu123/lock2/Classes/Category+Parse.m: In function '+[Category(Parse) categorysFromArray:]':
+o/Users/mac/Desktop/ashu123/lock2/Classes/Category+Parse.m:36: warning: incompatible Objective-C types initializing 'struct NSDictionary *', expected 'struct NSArray *'
+lSLF07#2@65"Compile /Users/mac/Desktop/ashu123/lock2/Classes/Category+Parse.m353658309#353658309#0(281"/Users/mac/Desktop/ashu123/lock2/Classes/Category+Parse.m: In function '+[Category(Parse) categorysFromArray:]':/Users/mac/Desktop/ashu123/lock2/Classes/Category+Parse.m:36: warning: incompatible Objective-C types initializing 'struct NSDictionary *', expected 'struct NSArray *'1(22@96"Incompatible Objective-C types initializing 'struct NSDictionary *', expected 'struct NSArray *'353658309#113#168#0(6@57"/Users/mac/Desktop/ashu123/lock2/Classes/Category+Parse.m353588739#36#0#36#0#61"incompatible Objective-C types initializing '*', expected '*'0(0#0#57"/Users/mac/Desktop/ashu123/lock2/Classes/Category+Parse.m8614860576#1816"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c /Users/mac/Desktop/ashu123/lock2/Classes/Category+Parse.m -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Category+Parse.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Category.o /Users/mac/Desktop/ashu123/lock2/Classes/Category.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658309.782405
+e353658309.926304
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Category.o
+x/Users/mac/Desktop/ashu123/lock2/Classes/Category.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/mac/Desktop/ashu123/lock2/Classes/Category.m353658309#353658309#0(0"0(0#0#51"/Users/mac/Desktop/ashu123/lock2/Classes/Category.m8615519456#1804"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c /Users/mac/Desktop/ashu123/lock2/Classes/Category.m -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Category.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Constants.o "/Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/Constants.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658309.582200
+e353658309.666633
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Constants.o
+x/Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/Constants.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/Constants.m353658309#353658309#0(0"0(0#0#77"/Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/Constants.m8613889920#1833"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/Constants.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Constants.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/ExamBoardAsyncInvocation.o "/users/mac/Desktop/HSC Chemistry/ExamBoardAsyncInvocation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658309.511657
+e353658309.582082
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/ExamBoardAsyncInvocation.o
+x/users/mac/Desktop/HSC Chemistry/ExamBoardAsyncInvocation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /users/mac/Desktop/HSC Chemistry/ExamBoardAsyncInvocation.m353658309#353658309#0(0"0(0#0#59"/users/mac/Desktop/HSC Chemistry/ExamBoardAsyncInvocation.m8614942784#1830"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/users/mac/Desktop/HSC Chemistry/ExamBoardAsyncInvocation.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/ExamBoardAsyncInvocation.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/ExamBoardService.o "/users/mac/Desktop/HSC Chemistry/ExamBoardService.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658309.553931
+e353658309.630393
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/ExamBoardService.o
+x/users/mac/Desktop/HSC Chemistry/ExamBoardService.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /users/mac/Desktop/HSC Chemistry/ExamBoardService.m353658309#353658309#0(0"0(0#0#51"/users/mac/Desktop/HSC Chemistry/ExamBoardService.m8614638880#1814"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/users/mac/Desktop/HSC Chemistry/ExamBoardService.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/ExamBoardService.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/GetQuestionDetailsInvocation.o "/users/mac/Desktop/HSC Chemistry/GetQuestionDetailsInvocation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658309.414891
+e353658309.511503
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/GetQuestionDetailsInvocation.o
+x/users/mac/Desktop/HSC Chemistry/GetQuestionDetailsInvocation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /users/mac/Desktop/HSC Chemistry/GetQuestionDetailsInvocation.m353658309#353658309#0(0"0(0#0#63"/users/mac/Desktop/HSC Chemistry/GetQuestionDetailsInvocation.m8617547616#1838"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/users/mac/Desktop/HSC Chemistry/GetQuestionDetailsInvocation.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/GetQuestionDetailsInvocation.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/ISActivityOverlayController.o "/users/mac/Desktop/HSC Chemistry/Foundation/activity-overlay/ISActivityOverlayController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658308.161445
+e353658308.292416
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/ISActivityOverlayController.o
+x/users/mac/Desktop/HSC Chemistry/Foundation/activity-overlay/ISActivityOverlayController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /users/mac/Desktop/HSC Chemistry/Foundation/activity-overlay/ISActivityOverlayController.m353658308#353658308#0(0"0(0#0#90"/users/mac/Desktop/HSC Chemistry/Foundation/activity-overlay/ISActivityOverlayController.m8617575552#1864"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/users/mac/Desktop/HSC Chemistry/Foundation/activity-overlay/ISActivityOverlayController.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/ISActivityOverlayController.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/ISO8601DateFormatter.o "/users/mac/Desktop/HSC Chemistry/Foundation/json/ISO8601DateFormatter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658308.956801
+e353658309.188071
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/ISO8601DateFormatter.o
+x/users/mac/Desktop/HSC Chemistry/Foundation/json/ISO8601DateFormatter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /users/mac/Desktop/HSC Chemistry/Foundation/json/ISO8601DateFormatter.m353658308#353658309#0(0"0(0#0#71"/users/mac/Desktop/HSC Chemistry/Foundation/json/ISO8601DateFormatter.m8617725024#1838"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/users/mac/Desktop/HSC Chemistry/Foundation/json/ISO8601DateFormatter.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/ISO8601DateFormatter.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/IconRecord.o "/users/mac/Desktop/HSC Chemistry/Foundation/SimpleImageCache/IconRecord.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658309.024848
+e353658309.133985
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/IconRecord.o
+x/users/mac/Desktop/HSC Chemistry/Foundation/SimpleImageCache/IconRecord.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /users/mac/Desktop/HSC Chemistry/Foundation/SimpleImageCache/IconRecord.m353658309#353658309#0(0"0(0#0#73"/users/mac/Desktop/HSC Chemistry/Foundation/SimpleImageCache/IconRecord.m8617561920#1830"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/users/mac/Desktop/HSC Chemistry/Foundation/SimpleImageCache/IconRecord.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/IconRecord.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/ImageCache.o "/users/mac/Desktop/HSC Chemistry/Foundation/SimpleImageCache/ImageCache.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658309.134294
+e353658309.221901
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/ImageCache.o
+x/users/mac/Desktop/HSC Chemistry/Foundation/SimpleImageCache/ImageCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /users/mac/Desktop/HSC Chemistry/Foundation/SimpleImageCache/ImageCache.m353658309#353658309#0(0"0(0#0#73"/users/mac/Desktop/HSC Chemistry/Foundation/SimpleImageCache/ImageCache.m8617748864#1830"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/users/mac/Desktop/HSC Chemistry/Foundation/SimpleImageCache/ImageCache.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/ImageCache.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/JSONUtils.o "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/JSONUtils.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658308.292531
+e353658308.368711
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/JSONUtils.o
+x/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/JSONUtils.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /users/mac/Desktop/HSC Chemistry/Foundation/categories/src/JSONUtils.m353658308#353658308#0(0"0(0#0#70"/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/JSONUtils.m8615347968#1826"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/JSONUtils.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/JSONUtils.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSArray+MBNSIndexPath.o "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSArray+MBNSIndexPath.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658308.346360
+e353658308.420924
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSArray+MBNSIndexPath.o
+x/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSArray+MBNSIndexPath.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSArray+MBNSIndexPath.m353658308#353658308#0(0"0(0#0#82"/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSArray+MBNSIndexPath.m8614682016#1850"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSArray+MBNSIndexPath.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSArray+MBNSIndexPath.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSData+Hex.o "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSData+Hex.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658308.368821
+e353658308.447714
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSData+Hex.o
+x/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSData+Hex.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSData+Hex.m353658308#353658308#0(0"0(0#0#71"/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSData+Hex.m8600339744#1828"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSData+Hex.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSData+Hex.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSDate-Calendar.o "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSDate-Calendar.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658308.421045
+e353658308.565669
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSDate-Calendar.o
+x/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSDate-Calendar.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSDate-Calendar.m353658308#353658308#0(0"0(0#0#76"/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSDate-Calendar.m8613841664#1838"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSDate-Calendar.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSDate-Calendar.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSDateDayCategory.o "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSDateDayCategory.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658308.447832
+e353658308.526301
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSDateDayCategory.o
+x/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSDateDayCategory.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSDateDayCategory.m353658308#353658308#0(0"0(0#0#78"/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSDateDayCategory.m8613754656#1842"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSDateDayCategory.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSDateDayCategory.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSError+Log4Cocoa.o "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSError+Log4Cocoa.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658308.526464
+e353658308.632640
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSError+Log4Cocoa.o
+x/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSError+Log4Cocoa.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSError+Log4Cocoa.m353658308#353658308#0(0"0(0#0#78"/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSError+Log4Cocoa.m8613612128#1842"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSError+Log4Cocoa.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSError+Log4Cocoa.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSHTTPURLResponse+StatusCodes.o "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSHTTPURLResponse+StatusCodes.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658308.565774
+e353658308.652299
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSHTTPURLResponse+StatusCodes.o
+x/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSHTTPURLResponse+StatusCodes.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSHTTPURLResponse+StatusCodes.m353658308#353658308#0(0"0(0#0#90"/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSHTTPURLResponse+StatusCodes.m8614966176#1866"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSHTTPURLResponse+StatusCodes.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSHTTPURLResponse+StatusCodes.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSObject+SBJSON.o "/users/mac/Desktop/HSC Chemistry/Foundation/json/NSObject+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658308.652412
+e353658308.738018
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSObject+SBJSON.o
+x/users/mac/Desktop/HSC Chemistry/Foundation/json/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /users/mac/Desktop/HSC Chemistry/Foundation/json/NSObject+SBJSON.m353658308#353658308#0(0"0(0#0#66"/users/mac/Desktop/HSC Chemistry/Foundation/json/NSObject+SBJSON.m8616084896#1828"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/users/mac/Desktop/HSC Chemistry/Foundation/json/NSObject+SBJSON.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSObject.o /Users/mac/Desktop/ashu123/lock2/Classes/NSObject.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSString+SBJSON.o "/users/mac/Desktop/HSC Chemistry/Foundation/json/NSString+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658308.698464
+e353658308.777002
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSString+SBJSON.o
+x/users/mac/Desktop/HSC Chemistry/Foundation/json/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /users/mac/Desktop/HSC Chemistry/Foundation/json/NSString+SBJSON.m353658308#353658308#0(0"0(0#0#66"/users/mac/Desktop/HSC Chemistry/Foundation/json/NSString+SBJSON.m8618452800#1828"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/users/mac/Desktop/HSC Chemistry/Foundation/json/NSString+SBJSON.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSString+md5.o "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSString+md5.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658308.632757
+e353658308.698355
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSString+md5.o
+x/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSString+md5.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSString+md5.m353658308#353658308#0(0"0(0#0#73"/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSString+md5.m8617438240#1832"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/users/mac/Desktop/HSC Chemistry/Foundation/categories/src/NSString+md5.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/NSString+md5.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/RootViewController.o /Users/mac/Desktop/ashu123/lock2/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658308.122852
+e353658308.256112
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/RootViewController.o
+x/Users/mac/Desktop/ashu123/lock2/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mac/Desktop/ashu123/lock2/Classes/RootViewController.m: In function '-[RootViewController getQuestionDetailsDidFinish:withCategory:withError:]':
+o/Users/mac/Desktop/ashu123/lock2/Classes/RootViewController.m:35: warning: 'store' may not respond to '-savelocations:'
+o/Users/mac/Desktop/ashu123/lock2/Classes/RootViewController.m:35: warning: (Messages without a matching method signature
+o/Users/mac/Desktop/ashu123/lock2/Classes/RootViewController.m:35: warning: will be assumed to return 'id' and accept
+o/Users/mac/Desktop/ashu123/lock2/Classes/RootViewController.m:35: warning: '...' as arguments.)
+lSLF07#2@69"Compile /Users/mac/Desktop/ashu123/lock2/Classes/RootViewController.m353658308#353658308#0(606"/Users/mac/Desktop/ashu123/lock2/Classes/RootViewController.m: In function '-[RootViewController getQuestionDetailsDidFinish:withCategory:withError:]':/Users/mac/Desktop/ashu123/lock2/Classes/RootViewController.m:35: warning: 'store' may not respond to '-savelocations:'/Users/mac/Desktop/ashu123/lock2/Classes/RootViewController.m:35: warning: (Messages without a matching method signature/Users/mac/Desktop/ashu123/lock2/Classes/RootViewController.m:35: warning: will be assumed to return 'id' and accept/Users/mac/Desktop/ashu123/lock2/Classes/RootViewController.m:35: warning: '...' as arguments.)2(22@44"'store' may not respond to '-savelocations:'353658308#152#120#0(6@61"/Users/mac/Desktop/ashu123/lock2/Classes/RootViewController.m353589535#35#0#35#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)353658308#272#121#0(6@61"/Users/mac/Desktop/ashu123/lock2/Classes/RootViewController.m353589535#35#0#35#0#0"0(0#0#61"/Users/mac/Desktop/ashu123/lock2/Classes/RootViewController.m8618004544#1824"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c /Users/mac/Desktop/ashu123/lock2/Classes/RootViewController.m -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SAService.o "/users/mac/Desktop/HSC Chemistry/Foundation/src/SAService.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658309.188179
+e353658309.287808
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SAService.o
+x/users/mac/Desktop/HSC Chemistry/Foundation/src/SAService.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /users/mac/Desktop/HSC Chemistry/Foundation/src/SAService.m353658309#353658309#0(0"0(0#0#59"/users/mac/Desktop/HSC Chemistry/Foundation/src/SAService.m8617548864#1815"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/users/mac/Desktop/HSC Chemistry/Foundation/src/SAService.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SAService.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SAServiceAsyncInvocation.o "/users/mac/Desktop/HSC Chemistry/Foundation/src/SAServiceAsyncInvocation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658309.222004
+e353658309.384508
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SAServiceAsyncInvocation.o
+x/users/mac/Desktop/HSC Chemistry/Foundation/src/SAServiceAsyncInvocation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /users/mac/Desktop/HSC Chemistry/Foundation/src/SAServiceAsyncInvocation.m353658309#353658309#0(0"0(0#0#74"/users/mac/Desktop/HSC Chemistry/Foundation/src/SAServiceAsyncInvocation.m8600091584#1845"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/users/mac/Desktop/HSC Chemistry/Foundation/src/SAServiceAsyncInvocation.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SAServiceAsyncInvocation.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SBJsonBase.o "/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonBase.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658308.738133
+e353658308.816195
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SBJsonBase.o
+x/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonBase.m353658308#353658308#0(0"0(0#0#61"/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonBase.m8617581088#1818"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonBase.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SBJsonParser.o "/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658308.777111
+e353658308.956698
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SBJsonParser.o
+x/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonParser.m353658308#353658308#0(0"0(0#0#63"/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonParser.m8617263456#1822"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonParser.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SBJsonStreamWriter.o "/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonStreamWriter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658308.885232
+e353658309.024740
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SBJsonStreamWriter.o
+x/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonStreamWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonStreamWriter.m353658308#353658309#0(0"0(0#0#69"/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonStreamWriter.m8614419296#1834"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonStreamWriter.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SBJsonStreamWriter.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SBJsonWriter.o "/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonWriter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658308.816305
+e353658308.885124
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SBJsonWriter.o
+x/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonWriter.m353658308#353658308#0(0"0(0#0#63"/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonWriter.m8615142560#1822"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/users/mac/Desktop/HSC Chemistry/Foundation/json/SBJsonWriter.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Utils.o "/Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/Utils.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658309.666740
+e353658309.782302
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Utils.o
+x/Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/Utils.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/Utils.m353658309#353658309#0(0"0(0#0#73"/Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/Utils.m8617726080#1825"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c "/Users/mac/Desktop/ashu123/lock2/../../../Downloads/HSC Chemistry/Utils.m" -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/Utils.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/as.o /Users/mac/Desktop/ashu123/lock2/Classes/as.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/detail.o /Users/mac/Desktop/ashu123/lock2/Classes/detail.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658309.287908
+e353658309.414770
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/detail.o
+x/Users/mac/Desktop/ashu123/lock2/Classes/detail.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/mac/Desktop/ashu123/lock2/Classes/detail.m353658309#353658309#0(0"0(0#0#49"/Users/mac/Desktop/ashu123/lock2/Classes/detail.m8613488960#1800"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c /Users/mac/Desktop/ashu123/lock2/Classes/detail.m -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/detail.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/lockAppDelegate.o /Users/mac/Desktop/ashu123/lock2/Classes/lockAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658307.999268
+e353658308.122742
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/lockAppDelegate.o
+x/Users/mac/Desktop/ashu123/lock2/Classes/lockAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/mac/Desktop/ashu123/lock2/Classes/lockAppDelegate.m353658307#353658308#0(0"0(0#0#58"/Users/mac/Desktop/ashu123/lock2/Classes/lockAppDelegate.m8614224864#1818"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c /Users/mac/Desktop/ashu123/lock2/Classes/lockAppDelegate.m -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/lockAppDelegate.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/main.o /Users/mac/Desktop/ashu123/lock2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658307.943189
+e353658307.999163
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/main.o
+x/Users/mac/Desktop/ashu123/lock2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/mac/Desktop/ashu123/lock2/main.m353658307#353658308#0(0"0(0#0#39"/Users/mac/Desktop/ashu123/lock2/main.m8614746112#1788"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c /Users/mac/Desktop/ashu123/lock2/main.m -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/main.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/map.o /Users/mac/Desktop/ashu123/lock2/Classes/map.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658309.384624
+e353658309.553779
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/map.o
+x/Users/mac/Desktop/ashu123/lock2/Classes/map.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mac/Desktop/ashu123/lock2/Classes/map.m:31: warning: incomplete implementation of class 'LocationAnnotation'
+o/Users/mac/Desktop/ashu123/lock2/Classes/map.m:31: warning: method definition for '-subtitle' not found
+o/Users/mac/Desktop/ashu123/lock2/Classes/map.m: In function '-[map viewWillAppear:]':
+o/Users/mac/Desktop/ashu123/lock2/Classes/map.m:70: warning: class 'map' does not implement the 'MKMapViewDelegate' protocol
+o/Users/mac/Desktop/ashu123/lock2/Classes/map.m: At top level:
+o/Users/mac/Desktop/ashu123/lock2/Classes/map.m:136: warning: property 'coordinate' requires method '-coordinate' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/mac/Desktop/ashu123/lock2/Classes/map.m:136: warning: incomplete implementation of class 'map'
+o/Users/mac/Desktop/ashu123/lock2/Classes/map.m:136: warning: method definition for '-sendbutton:' not found
+lSLF07#2@54"Compile /Users/mac/Desktop/ashu123/lock2/Classes/map.m353658309#353658309#0(892"/Users/mac/Desktop/ashu123/lock2/Classes/map.m:31: warning: incomplete implementation of class 'LocationAnnotation'/Users/mac/Desktop/ashu123/lock2/Classes/map.m:31: warning: method definition for '-subtitle' not found/Users/mac/Desktop/ashu123/lock2/Classes/map.m: In function '-[map viewWillAppear:]':/Users/mac/Desktop/ashu123/lock2/Classes/map.m:70: warning: class 'map' does not implement the 'MKMapViewDelegate' protocol/Users/mac/Desktop/ashu123/lock2/Classes/map.m: At top level:/Users/mac/Desktop/ashu123/lock2/Classes/map.m:136: warning: property 'coordinate' requires method '-coordinate' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/mac/Desktop/ashu123/lock2/Classes/map.m:136: warning: incomplete implementation of class 'map'/Users/mac/Desktop/ashu123/lock2/Classes/map.m:136: warning: method definition for '-sendbutton:' not found7(22@55"Incomplete implementation of class 'LocationAnnotation'353658309#0#116#0(6@46"/Users/mac/Desktop/ashu123/lock2/Classes/map.m352297889#31#0#31#0#38"incomplete implementation of class '*'0(22@43"Method definition for '-subtitle' not found353658309#116#104#0(6@46"/Users/mac/Desktop/ashu123/lock2/Classes/map.m352297889#31#0#31#0#35"method definition for '*' not found0(22@63"Class 'map' does not implement the 'MKMapViewDelegate' protocol353658309#306#124#0(6@46"/Users/mac/Desktop/ashu123/lock2/Classes/map.m352297889#70#0#70#0#45"class '*' does not implement the '*' protocol0(23@13"At top level:353658309#430#62#0(6@46"/Users/mac/Desktop/ashu123/lock2/Classes/map.m352297889#0#0#0#0#0"0(22@128"Property 'coordinate' requires method '-coordinate' to be defined - use @synthesize, @dynamic or provide a method implementation353658309#492#190#0(6@46"/Users/mac/Desktop/ashu123/lock2/Classes/map.m352297889#136#0#136#0#0"0(22@40"Incomplete implementation of class 'map'353658309#682#102#0(6@46"/Users/mac/Desktop/ashu123/lock2/Classes/map.m352297889#136#0#136#0#38"incomplete implementation of class '*'0(22@46"Method definition for '-sendbutton:' not found353658309#784#108#0(6@46"/Users/mac/Desktop/ashu123/lock2/Classes/map.m352297889#136#0#136#0#35"method definition for '*' not found0(0#0#46"/Users/mac/Desktop/ashu123/lock2/Classes/map.m8617986624#1794"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c /Users/mac/Desktop/ashu123/lock2/Classes/map.m -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/map.o0#
+
+CCompileC build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/store.o /Users/mac/Desktop/ashu123/lock2/Classes/store.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658309.714380
+e353658309.832667
+r1
+xCompileC
+xbuild/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/store.o
+x/Users/mac/Desktop/ashu123/lock2/Classes/store.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mac/Desktop/ashu123/lock2/Classes/store.m:154: warning: incomplete implementation of class 'store'
+o/Users/mac/Desktop/ashu123/lock2/Classes/store.m:154: warning: method definition for '-savelocations::' not found
+lSLF07#2@56"Compile /Users/mac/Desktop/ashu123/lock2/Classes/store.m353658309#353658309#0(220"/Users/mac/Desktop/ashu123/lock2/Classes/store.m:154: warning: incomplete implementation of class 'store'/Users/mac/Desktop/ashu123/lock2/Classes/store.m:154: warning: method definition for '-savelocations::' not found2(22@42"Incomplete implementation of class 'store'353658309#0#106#0(6@48"/Users/mac/Desktop/ashu123/lock2/Classes/store.m353590952#154#0#154#0#38"incomplete implementation of class '*'0(22@50"Method definition for '-savelocations::' not found353658309#106#114#0(6@48"/Users/mac/Desktop/ashu123/lock2/Classes/store.m353590952#154#0#154#0#35"method definition for '*' not found0(0#0#48"/Users/mac/Desktop/ashu123/lock2/Classes/store.m8617268224#1798"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -include /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch -c /Users/mac/Desktop/ashu123/lock2/Classes/store.m -o /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/store.o0#
+
+CCompileXIB "/users/mac/Desktop/HSC Chemistry/Foundation/activity-overlay/Activity.xib"
+s353658305.445746
+e353658306.200705
+r1
+xCompileXIB
+x/users/mac/Desktop/HSC Chemistry/Foundation/activity-overlay/Activity.xib
+lSLF07#2@86"CompileXIB "/users/mac/Desktop/HSC Chemistry/Foundation/activity-overlay/Activity.xib"353658305#353658306#0(0"0(0#0#73"/users/mac/Desktop/HSC Chemistry/Foundation/activity-overlay/Activity.xib8619153792#575"    cd /Users/mac/Desktop/ashu123/lock2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/Activity.nib "/users/mac/Desktop/HSC Chemistry/Foundation/activity-overlay/Activity.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mac/Desktop/ashu123/lock2/Classes/detail.xib
+s353658305.551430
+e353658306.132118
+r1
+xCompileXIB
+x/Users/mac/Desktop/ashu123/lock2/Classes/detail.xib
+lSLF07#2@29"CompileXIB Classes/detail.xib353658305#353658306#0(0"0(0#0#51"/Users/mac/Desktop/ashu123/lock2/Classes/detail.xib8618152928#549"    cd /Users/mac/Desktop/ashu123/lock2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/detail.nib /Users/mac/Desktop/ashu123/lock2/Classes/detail.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mac/Desktop/ashu123/lock2/Classes/map.xib
+s353658306.132321
+e353658306.736398
+r1
+xCompileXIB
+x/Users/mac/Desktop/ashu123/lock2/Classes/map.xib
+lSLF07#2@26"CompileXIB Classes/map.xib353658306#353658306#0(0"0(0#0#48"/Users/mac/Desktop/ashu123/lock2/Classes/map.xib8617455360#543"    cd /Users/mac/Desktop/ashu123/lock2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/map.nib /Users/mac/Desktop/ashu123/lock2/Classes/map.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mac/Desktop/ashu123/lock2/MainWindow.xib
+s353658303.180317
+e353658305.446489
+r1
+xCompileXIB
+x/Users/mac/Desktop/ashu123/lock2/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib353658303#353658305#0(0"0(0#0#47"/Users/mac/Desktop/ashu123/lock2/MainWindow.xib8615976000#549"    cd /Users/mac/Desktop/ashu123/lock2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/MainWindow.nib /Users/mac/Desktop/ashu123/lock2/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mac/Desktop/ashu123/lock2/RootViewController.xib
+s353658303.181142
+e353658305.444748
+r1
+xCompileXIB
+x/Users/mac/Desktop/ashu123/lock2/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib353658303#353658305#0(0"0(0#0#55"/Users/mac/Desktop/ashu123/lock2/RootViewController.xib8615597120#565"    cd /Users/mac/Desktop/ashu123/lock2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/RootViewController.nib /Users/mac/Desktop/ashu123/lock2/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/lock.app/activity-overlay.png "/users/mac/Desktop/HSC Chemistry/Foundation/activity-overlay/activity-overlay.png"
+s353658305.444911
+e353658305.551339
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/lock.app/activity-overlay.png
+x/users/mac/Desktop/HSC Chemistry/Foundation/activity-overlay/activity-overlay.png
+lSLF07#2@86"Copy /users/mac/Desktop/HSC Chemistry/Foundation/activity-overlay/activity-overlay.png353658305#353658305#0(0"0(0#0#81"/users/mac/Desktop/HSC Chemistry/Foundation/activity-overlay/activity-overlay.png8615285920#487"    cd /Users/mac/Desktop/ashu123/lock2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/users/mac/Desktop/HSC Chemistry/Foundation/activity-overlay/activity-overlay.png" /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app0#
+
+CDataModelCompile /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/lock.mom /Users/mac/Desktop/ashu123/lock2/lock.xcdatamodel
+s353658307.942319
+e353658308.161323
+r1
+xDataModelCompile
+x/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/lock.mom
+x/Users/mac/Desktop/ashu123/lock2/lock.xcdatamodel
+lSLF07#2@57"Compile /Users/mac/Desktop/ashu123/lock2/lock.xcdatamodel353658307#353658308#0(0"0(0#0#49"/Users/mac/Desktop/ashu123/lock2/lock.xcdatamodel8615294912#357"    cd /Users/mac/Desktop/ashu123/lock2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/mac/Desktop/ashu123/lock2/lock.xcdatamodel /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/lock.mom0#
+
+CGenerateDSYMFile /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app.dSYM /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/lock
+s353658310.037977
+e353658310.086946
+r1
+xGenerateDSYMFile
+x/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app.dSYM
+x/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/lock
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/lock.app.dSYM build/Debug-iphonesimulator/lock.app/lock353658310#353658310#0(0"0(0#0#74"/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/lock8615764768#356"    cd /Users/mac/Desktop/ashu123/lock2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/lock -o /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app.dSYM0#
+
+CLd /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/lock normal i386
+s353658309.935956
+e353658310.037880
+r1
+xLd
+x/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/lock
+xnormal
+xi386
+lSLF07#2@79"Link /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/lock353658309#353658310#0(0"0(0#0#0"8617698656#917"    cd /Users/mac/Desktop/ashu123/lock2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -filelist /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/Objects-normal/i386/lock.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -framework CoreLocation -framework CoreData -o /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/lock0#
+
+CProcessInfoPlistFile /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/Info.plist lock-Info.plist
+s353658303.093570
+e353658303.180219
+r1
+xProcessInfoPlistFile
+x/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/Info.plist
+xlock-Info.plist
+lSLF07#2@23"Process lock-Info.plist353658303#353658303#0(0"0(0#0#48"/Users/mac/Desktop/ashu123/lock2/lock-Info.plist8618286912#452"    cd /Users/mac/Desktop/ashu123/lock2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility lock-Info.plist -genpkginfo /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app/Info.plist0#
+
+CProcessPCH /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch.gch lock_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s353658306.736530
+e353658307.942157
+r1
+xProcessPCH
+x/var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch.gch
+xlock_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile lock_Prefix.pch353658306#353658307#0(0"0(0#0#48"/Users/mac/Desktop/ashu123/lock2/lock_Prefix.pch8616125760#1689"    cd /Users/mac/Desktop/ashu123/lock2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-generated-files.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-own-target-headers.hmap -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-all-target-headers.hmap -iquote /Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/lock-project-headers.hmap -F/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator -I/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources/i386 -I/Users/mac/Desktop/ashu123/lock2/build/lock.build/Debug-iphonesimulator/lock.build/DerivedSources -c /Users/mac/Desktop/ashu123/lock2/lock_Prefix.pch -o /var/folders/Io/IoiSjlx0Faqqcl2XtSKHNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lock_Prefix-auwxbkkqfpicuddprmlwtamizfdi/lock_Prefix.pch.gch0#
+
+CTouch /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app
+s353658310.087037
+e353658310.090275
+r1
+xTouch
+x/Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app
+lSLF07#2@75"Touch /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app353658310#353658310#0(0"0(0#0#0"8613207360#263"    cd /Users/mac/Desktop/ashu123/lock2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mac/Desktop/ashu123/lock2/build/Debug-iphonesimulator/lock.app0#
+
